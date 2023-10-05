@@ -15,14 +15,7 @@ Welcome to the Tech Language Notes and Tutorials repository! This repository ser
 In the world of technology, staying updated with programming languages and tools is essential. This repository aims to provide a curated set of notes and tutorials for a wide range of programming languages, including:
 
 - Python
-- JavaScript
-- Java
-- C++
-- Ruby
-- PHP
-- Swift
-- Go
-- and more...
+
 
 Whether you're interested in web development, data science, mobile app development, or any other tech field, you'll find resources here to help you get started or deepen your knowledge.
 
