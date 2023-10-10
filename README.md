@@ -15,6 +15,7 @@ Welcome to the Tech Language Notes and Tutorials repository! This repository ser
 In the world of technology, staying updated with programming languages and tools is essential. This repository aims to provide a curated set of notes and tutorials for a wide range of programming languages, including:
 
 - Python
+- Scala
 
 
 Whether you're interested in web development, data science, mobile app development, or any other tech field, you'll find resources here to help you get started or deepen your knowledge.
@@ -23,8 +24,8 @@ Whether you're interested in web development, data science, mobile app developme
 
 This repository covers a variety of languages and technologies, including but not limited to:
 
-- **Python**: Learn Python programming from the basics to advanced topics, including data manipulation, web development, and machine learning.
-
+- **Python**: Learn Python programming from the basics to advanced topics.
+- **Scala**: Learn Scala programming from the basics to advanced topics.
 
 ## Getting Started
 
