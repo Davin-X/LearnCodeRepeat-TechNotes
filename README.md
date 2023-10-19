@@ -1,4 +1,4 @@
-# Tech Language Notes and Tutorials
+# Language Notes and Tutorials
 
 Welcome to the Tech Language Notes and Tutorials repository! This repository serves as a collection of educational resources, notes, and tutorials for various programming languages and technologies. Whether you're a beginner or an experienced developer, you'll find valuable content here to enhance your skills.
 
